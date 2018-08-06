@@ -111,7 +111,7 @@ function getStandardTimeString(date) {
 
 // not all topics link to material, for those that don't link, don't create a link
 function linkify(title, link) {
-    str = "";
+    var str = "";
 
     if (link === "") {
         str = title;
@@ -172,15 +172,16 @@ function getLabString(lab, assignOnDate) {
 function getAssignmentString(assign, assignOnDate) {
     var str = "";
     var today = new Date();
+    var dueDate = "";
 
     if ((assign instanceof Assignment) && (assignOnDate.getTime() < today.getTime() || PREPOPULATE)) {
         str = linkify(assign.title, assign.link);
-        var dueDate = new Date(assignOnDate.getTime());
+        dueDate = new Date(assignOnDate.getTime());
         dueDate.setDate(dueDate.getDate() + assign.daysToComplete);
         str += "<br>Due " + getDateString(dueDate) + " by 11:59 PM";
     } else if ((assign instanceof Homework) && (assignOnDate.getTime() < today.getTime() || PREPOPULATE)) {
         str = linkify(assign.title, assign.link);
-        var dueDate = new Date(assignOnDate.getTime());
+        dueDate = new Date(assignOnDate.getTime());
         dueDate.setDate(dueDate.getDate() + assign.daysToComplete);
         str += "<br>Due " + getDateString(dueDate) + " in class";
     }
@@ -203,6 +204,7 @@ function printCalendar() {
         if (((i !== 0) && (days[calendar[i].date.getDay()] === courseInfo.classDays[0])) || (!courseInfo.inClassFinalExam && i === regularSemesterDays)) {
             document.write("<tr><td></td><td></td><td></td><td></td></tr>");
         }
+        document.write("<tbody>");
         document.write("<tr>");
         document.write("<td>" + getDateString(calendar[i].date) + "</td>");
         document.write("<td>" + getTopicString(calendar[i].topic) + "</td>");
@@ -210,6 +212,7 @@ function printCalendar() {
         document.write("<td>" + getReadingString(calendar[i].reading) + "</td>");
         document.write("<td>" + getAssignmentString(calendar[i].assign, calendar[i].date) + "</td>");
         document.write("</tr>");
+        document.write("</tbody>");
     }
     document.write("</table>");
 }
