@@ -110,7 +110,17 @@ Students are expected to attend all scheduled classes and participate in class a
 
 ### Collaboration Policy
 
-You are encouraged to discuss course material with other students. Discussing the text, lecture notes, assignments and their solutions, is a great way to expose yourself to different approaches to thinking about the material. For many of the problems assigned in this class there will be no single right answer. Comparing multiple solutions to the same problem can help you to develop of much deeper understanding of the material. However, everything that you turn in must be your own work, unless instructed otherwise. If you work on assignments with another student or students, you need to explicitly list those students on the work you submit. If you found information on a website or in other materials (books, papers, etc.) then cite them as well. There is no penalty for naming who you worked with or listing other references. However, you will lose credit if you do not list someone with whom you collaborated, or other resources. You are not allowed to copy answers or parts of answers from anyone else, or from material you find on the Internet or elsewhere. This will be considered as willful cheating, and will be dealt with as a violation of the Academic Integrity code.
+You are encouraged to discuss course material with other students. Discussing the text, lecture notes, 
+assignments and their solutions, is a great way to expose yourself to different approaches to thinking about 
+the material. For many of the problems assigned in this class there will be no single right answer. Comparing multiple 
+solutions to the same problem can help you to develop of much deeper understanding of the material. However, everything 
+that you turn in must be your own work, unless instructed otherwise. If you work on assignments with another student or 
+students, you need to explicitly list those students on the work you submit. If you found information on a website or 
+in other materials (books, papers, etc.) then cite them as well. There is no penalty for naming who you worked with or 
+listing other references. However, you will lose credit if you do not list someone with whom you collaborated, or other 
+resources. You are not allowed to copy answers or parts of answers from anyone else, or from material you find on the 
+Internet or elsewhere. This will be considered as willful cheating, and will be dealt with as a violation of the 
+Academic Integrity code.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
