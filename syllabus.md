@@ -34,7 +34,12 @@ title: Syllabus
 
 ### Course Description
 
-This course provides an introduction to the fundamentals of operating systems. Topics include interprocess communication, process scheduling, deadlock, memory management, virtual memory, file systems, and distributed systems. Formal principles are illustrated with examples and case studies of one or more contemporary operating systems. Also, students will study a widely used operating system such as Windows or UNIX with an emphasis on system programming for the operating system. Topics include kernel design, the I/O system, scheduling algorithms, process control, interprocess communication, system calls, and memory management.
+This course provides an introduction to the fundamentals of operating systems. Topics include interprocess communication, 
+process scheduling, deadlock, memory management, virtual memory, file systems, and distributed systems. Formal principles 
+are illustrated with examples and case studies of one or more contemporary operating systems. Also, students will study a 
+widely used operating system such as Windows or UNIX with an emphasis on system programming for the operating system. 
+Topics include kernel design, the I/O system, scheduling algorithms, process control, interprocess communication, 
+system calls, and memory management.
 
 
 **Prerequisites:**	CS340 or ECE260 with a grade of 2.0 or higher<br>
@@ -52,7 +57,7 @@ In this course students will learn:
   - Introduce the fundamental functionality and structure of operating systems
   - Discuss process scheduling schemes including synchronization, communication, and protection 
   - Discuss I/O interfacing focusing primarily on file system organization and access 
-  - Illustrate concepts as implemented in modern OS’s including WinXP and Linux
+  - Illustrate concepts as implemented in modern OS’s including Windows and Linux
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
