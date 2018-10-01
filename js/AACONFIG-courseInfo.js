@@ -47,7 +47,7 @@ var courseInfo = {
         },
         {
             topic: new Topic( "Interprocess Communication (continued)", "lectures/lecture6b_client_server_communication.pdf" ),
-            assign: new Assignment("Lab #2", "labs/lab02.html", 17)
+            assign: new Assignment("Lab #2", "labs/lab02.html", 24)
         },
         {
             topic: new Topic( "Threads", "lectures/lecture7_threads.pdf" ),
