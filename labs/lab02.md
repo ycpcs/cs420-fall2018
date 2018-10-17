@@ -62,7 +62,7 @@ Use print statements to output the progress of the program. Each print statement
 > ./mainProc 5
 
 PARENT: Created shared memory with a segment ID of 1048576
-PARENT: The child process should store it's string in shared
+PARENT: The child process should store its string in shared
         memory a total of 5 times.
 
 CHILD: Received 2 arguments
