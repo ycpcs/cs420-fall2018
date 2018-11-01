@@ -146,13 +146,13 @@ var courseInfo = {
             topic: new Topic( "File-System Implementation (continued)", "lectures/lecture20+21_file_system_implementation.pdf" ),
         },
         {
-            topic: new Topic( "Mass Storage Structure", "lectures/lecture22_mass_storage_structure.pdf" ),
-            reading: new Reading("OSC9 § 10.1 - 10.6")
-        },
-        {
             topic: new Topic( "RAID Structure", "lectures/lecture23_RAID.pdf" ),
             reading: new Reading("OSC9 § 10.7 - 10.9"),
             assign: new Homework("Homework #8", "homework/Homework_Assignment_8.txt", 14)
+        },
+        {
+            topic: new Topic( "Mass Storage Structure", "lectures/lecture22_mass_storage_structure.pdf" ),
+            reading: new Reading("OSC9 § 10.1 - 10.6")
         },
         {
             topic: new Topic( "Security Issues - Trojan Horses, Viruses, etc.", "lectures/lecture26_security_issues.pdf" ),
