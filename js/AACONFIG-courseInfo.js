@@ -165,10 +165,10 @@ var courseInfo = {
             topic: new Topic( "Security Issues (continued)", "lectures/lecture26_security_issues.pdf" ),
         },
         {
-            topic: new Topic( "Cryptography", "lectures/lecture27_cryptography.pdf" ),
+            topic: new Topic( "Security Issues (continued)", "lectures/lecture26_security_issues.pdf" ),
         },
         {
-            topic: new Topic( "Cryptography (continued)", "lectures/lecture27_cryptography.pdf" ),
+            topic: new Topic( "Cryptography", "lectures/lecture27_cryptography.pdf" ),
         },
         {
             topic: new Topic( "Review for Final Exam", "" ),
