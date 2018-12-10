@@ -76,10 +76,10 @@ Your grade in this course will be a weighted average based on the following weig
 | Range             |  Grade   |
 |:-----------------:|:--------:|
 | ≥ 90 and ≤ 100    |   4.0    |
-| ≥ 87 and &lt; 90  |   3.5    |
-| ≥ 80 and &lt; 87  |   3.0    |
-| ≥ 77 and &lt; 80  |   2.5    |
-| ≥ 70 and &lt; 77  |   2.0    |
+| ≥ 85 and &lt; 90  |   3.5    |
+| ≥ 80 and &lt; 85  |   3.0    |
+| ≥ 75 and &lt; 80  |   2.5    |
+| ≥ 70 and &lt; 75  |   2.0    |
 | ≥ 60 and &lt; 70  |   1.0    |
 | &lt; 60           |    0     |
 
