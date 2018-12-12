@@ -174,7 +174,7 @@ var courseInfo = {
             topic: new Topic( "Review for Final Exam", "" ),
         },
         {
-            topic: new Topic( "** Final Exam", "" )
+            topic: new Topic( "** Final Exam (cumulative)", "" )
         }
     ]
 };
